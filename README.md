@@ -4,4 +4,4 @@ this is the CNN model implementation for the paper [data-driven rapid flood pred
 
 the data used for this research has been released via ETH research collection: [Flood simulation data for ...](https://www.research-collection.ethz.ch/handle/20.500.11850/453305)
 
-the code has not been properly cleaned and it is quite messy. I provided an example that shows how to build the CNN model with a configuration file.
+the code has not been properly cleaned and it is quite messy. I provided [an example](src/example.ipynb) that shows how to build the CNN model with a configuration file.
